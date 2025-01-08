@@ -1,19 +1,42 @@
-### Bem Vindo !!
+<h2 align="center">Olá!! Me chamo Diogo Dias Pimentel mas você pode ma chamar de "Di"<br> =)<br><br>Sempre amei tecnologia e é por isso que atualmente busco sempre melhorar meu conhecimento na area tanto para meu conhecimento pessoal quanto profissional!!</h2>
 
-Me chamo Diogo Dias Pimentel mas voce pode ma chamar de "DiDi" =)
-- Sempre amei tecnologia e é por isso que atualmente busco sempre melhorar meu conhecimento na area tanto para meu conhecimento pessoal quanto profissional!!
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D1DIS&show_icons=true&theme=highcontrast&rank_icon=github) 
-<img align="right" alt="didi digitalizado" height="230" width="230" src="https://cdn.picrew.me/shareImg/org/202403/217440_BNhzT4dU.png" >
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<br clear="both">
+
+<div align="center">
+  <img height="270" src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif"  />
 </div>
 
-~~~python
-print ('Hello World')
-~~~
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://mail.google.com/mail/u/0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/diogodiaspimentel-1d81n3970" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">強さ</h2>
+
+###
