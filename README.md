@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="<a href = “mailto:diogo.pimentel360@gmail.com”><img src=“https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white” target=“_blank”></a>" target="_blank">
+  <a href="<a href = “diogo.pimentel360@gmail.com”><img src=“https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white” target=“_blank”></a>" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/diogodiaspimentel-1d81n3970" target="_blank">
