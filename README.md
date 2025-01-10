@@ -1,4 +1,4 @@
-<h2 align="center">Olá!! Me chamo Diogo Dias Pimentel mas você pode ma chamar de "Di"<br> =)<br><br>Sempre amei tecnologia e é por isso que atualmente busco sempre melhorar meu conhecimento na area tanto para meu conhecimento pessoal quanto profissional!!</h2>
+<h2 align="center">Olá!! Me chamo Diogo Dias Pimentel mas você pode me chamar de "Di"<br> =)<br><br>Sempre amei tecnologia e é por isso que atualmente busco sempre melhorar meu conhecimento na area tanto para meu conhecimento pessoal quanto profissional!!</h2>
 
 ###
 
