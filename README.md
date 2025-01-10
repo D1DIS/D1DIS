@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="<a href="mailto:diogo.pimentel360@gmail.com" target="_blank">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo" /> </a>" target="_blank">
+  <a href="<a href="mailto:diogo.pimentel360@gmail.com" target="_blank">  
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/diogodiaspimentel-1d81n3970" target="_blank">
